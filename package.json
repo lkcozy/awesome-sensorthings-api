@@ -1,0 +1,17 @@
+{
+  "name": "awesome-sensorthings-api",
+  "version": "1.0.0",
+  "description": "A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.",
+  "repository": "https://github.com/lkcozy/awesome-sensorthings-api.git",
+  "author": "lkcozy <lkklcozy@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "markdown-link-check": "find . -name '*.md' -not -path './node_modules/*' -exec sh -c 'markdown-link-check --quiet --verbose {}' \\;",
+    "spell-check": "cspell --unique --no-progress \"**/*.md\""
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.10.0",
+    "cspell": "^5.18.0",
+    "husky": "^7.0.0"
+  }
+}
