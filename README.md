@@ -45,6 +45,12 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [SensorUp Mapping with SensorThings](https://developers.sensorup.com/tutorials/map/)
 - [SensorUp SensorThings Tutorials](https://developers.sensorup.com/tutorials/)
 
+## Presentations
+
+- [OGC SensorThings API IoT Sensors for the Energy Domain](https://inspire.ec.europa.eu/sites/default/files/presentations/1600_ogc_sensorthings_api_and_energy_-_final.pdf)
+
+## Videos
+
 ## Related Standards
 
 - [Sensor Measurement Lists(SenML)](https://tools.ietf.org/html/rfc8428)
