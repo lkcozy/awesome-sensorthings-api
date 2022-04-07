@@ -40,6 +40,19 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [SensorThings API Python Client](https://pypi.org/project/frost-sta-client/#/): a client library to facilitate interaction with a FROST SensorThingsAPI Server
 - [Geodan SensorThings .NET SDK](https://github.com/gost/sensorthings-net-sdk) : makes it easy to add OGC SensorThings support to your .NET application.
 
+## [Custom Extensions](https://github.com/opengeospatial/sensorthings/discussions/146)
+
+> STA enables custom extensions since v1.1
+
+- [CSV-ResultFormat](https://github.com/INSIDE-information-systems/SensorThingsAPI/blob/master/CSV-ResultFormat/CSV-ResultFormat.md): Adds a `$resultFormat=CSV` to get results in CSV format
+- [GeoJSON-ResultFormat](https://fraunhoferiosb.github.io/FROST-Server/extensions/GeoJSON-ResultFormat.html): Adds a `$resultFormat=GeoJSON` to get results in GeoJSON format
+- [EntityLinking](https://github.com/INSIDE-information-systems/SensorThingsAPI/blob/master/EntityLinking/Linking.md): Adds custom entity links (links between arbitrary entities, that can be used in $expand and $filter
+- [OpenAPI](https://fraunhoferiosb.github.io/FROST-Server/extensions/OpenAPI.html): Adds a `/vx.y/api` path with an OpenAPI document
+- [DeepSelect](https://fraunhoferiosb.github.io/FROST-Server/extensions/DeepSelect.html): Adds the ability to `$select` into complex properties.
+- [SelectDistinct](https://fraunhoferiosb.github.io/FROST-Server/extensions/SelectDistinct.html): Adds the ability to select all different existing values of (a set of) properties
+- [JsonBatchRequest](https://fraunhoferiosb.github.io/FROST-Server/extensions/JsonBatchRequest.html): Adds OData JSON batch requests, as an easier-to-use alternative to the Multipart batch requests.
+- [ResponseMetadata](https://fraunhoferiosb.github.io/FROST-Server/extensions/ResponseMetadata.html): Adds the ability to reduce or extend the returned metadata for responses
+
 ## Tutorials
 
 - [SensorUp Mapping with SensorThings](https://developers.sensorup.com/tutorials/map/)
