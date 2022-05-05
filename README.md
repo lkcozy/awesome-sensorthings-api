@@ -39,6 +39,9 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [Frost-Client](https://github.com/FraunhoferIOSB/FROST-Client): a Java-based client library for the SensorThingsAPI and aims to simplify development of SensorThings enabled client applications.
 - [SensorThings API Python Client](https://pypi.org/project/frost-sta-client/#/): a client library to facilitate interaction with a FROST SensorThingsAPI Server
 - [Geodan SensorThings .NET SDK](https://github.com/gost/sensorthings-net-sdk) : makes it easy to add OGC SensorThings support to your .NET application.
+- [stapy](https://github.com/zMoooooritz/stapy): An easy to use SensorThings API Client written in Python
+- [sensor-things-server](https://github.com/PAR-Government/sensor-things-server): Implementation of OGC SensorThings server in .NET that is suitable for being embedded into Xamarin
+- 🐳 [sensorcamp-munich](https://github.com/lrswss/sensorcamp-munich): Docker stack to setup a LoRaWAN infrastructure including a FROST-Server on a Raspberry Pi
 
 ## [Custom Extensions](https://github.com/opengeospatial/sensorthings/discussions/146)
 
@@ -53,10 +56,16 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [JsonBatchRequest](https://fraunhoferiosb.github.io/FROST-Server/extensions/JsonBatchRequest.html): Adds OData JSON batch requests, as an easier-to-use alternative to the Multipart batch requests.
 - [ResponseMetadata](https://fraunhoferiosb.github.io/FROST-Server/extensions/ResponseMetadata.html): Adds the ability to reduce or extend the returned metadata for responses
 
+## Use Case
+
+- [Sensor In Rooms](https://github.com/opengeospatial/sensorthings/blob/master/use-cases/SensorsInRooms.md)
+- [Lead in Liver In Fishing River](https://github.com/opengeospatial/sensorthings/blob/master/use-cases/LeadInLiverInFishInRiver.md)
+
 ## Tutorials
 
 - [SensorUp Mapping with SensorThings](https://developers.sensorup.com/tutorials/map/)
 - [SensorUp SensorThings Tutorials](https://developers.sensorup.com/tutorials/)
+- [SensorThingsAPI Locations on a map](https://github.com/tum-gis/FROST-on-a-map): Basic examples for bringing SensorThingsAPI Locations and HistoricalLocations to web maps as markers or trajectories.
 
 ## Presentations
 

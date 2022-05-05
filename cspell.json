@@ -3,7 +3,15 @@
   "ignorePaths": [],
   "dictionaryDefinitions": [],
   "dictionaries": [],
-  "words": ["Geodan", "IOSB", "Opensource", "sensorthings", "Geospatial"],
+  "words": [
+    "Geodan",
+    "Geospatial",
+    "IOSB",
+    "Opensource",
+    "sensorcamp",
+    "sensorthings",
+    "stapy"
+  ],
   "ignoreWords": [],
   "import": []
 }
