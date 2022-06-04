@@ -42,6 +42,7 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [stapy](https://github.com/zMoooooritz/stapy): An easy to use SensorThings API Client written in Python
 - [sensor-things-server](https://github.com/PAR-Government/sensor-things-server): Implementation of OGC SensorThings server in .NET that is suitable for being embedded into Xamarin
 - 🐳 [sensorcamp-munich](https://github.com/lrswss/sensorcamp-munich): Docker stack to setup a LoRaWAN infrastructure including a FROST-Server on a Raspberry Pi
+- [Grafana OGC SensorThings Plugin](https://grafana.com/grafana/plugins/linksmart-sensorthings-datasource/): This plugin enables the visualization of sensor and location data from an OGC SensorThings server on Grafana.
 
 ## [Custom Extensions](https://github.com/opengeospatial/sensorthings/discussions/146)
 
@@ -79,12 +80,15 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 
 ## Publications
 
-- [Amazon IoT and the candidate OGC SensorThings API Standard](https://www.ogc.org/blog/2315)
-- [Implementation and Evaluation of Four Interoperable Open Standards for the Internet of Things](https://www.mdpi.com/1424-8220/15/9/24343#/)
-- [An Environmental Sensor Data Suite Using the OGC SensorThings API](https://link.springer.com/chapter/10.1007/978-3-030-39815-6_22)
-- [Design and Development of an Integrated Internet of Audio and Video Sensors for COVID-19 Coughing and Sneezing Recognition](https://ieeexplore.ieee.org/abstract/document/9623141?casa_token=DdjcBl8uvxMAAAAA:fZdmWxdPp2NUSoBfu3sA2r-N6SkAkfA6phSMRunCR3Tm75OuipDHznkC87LGRqHwm_9e3EtgSw)
-- [The Integration of OGC SensorThings API and OGC CityGML via Semantic Web Technology](https://books.google.ca/books?hl=en&lr=&id=H4gEEAAAQBAJ&oi=fnd&pg=PA55&ots=ai_Ledffts&sig=nTs7w4FHDrBIrCkeqiwF45n2c60&redir_esc=y#v=onepage&q&f=false)
-- [An Automatic Embedded Device Registration Procedure Based on the OGC SensorThings API](https://scholar.google.com/scholar_url?url=https://www.mdpi.com/1424-8220/19/3/495/pdf&hl=en&oi=gsb-gga&ct=res&d=11656171690071367110&scisig=AAGBfm3mFAyEBx585JYi26bjBqji2hdlbw)
-- [The Integration of OGC SensorThings API and OGC CityGML via Sematic Web Technology](https://link.springer.com/chapter/10.1007/978-3-030-60952-8_6)
-- [A Comparative Study in the Standardization of IoT Devices Using Geospatial Web Standards](https://ieeexplore.ieee.org/abstract/document/9224992?casa_token=wET_iQDqU4YAAAAA:EyTm0T1jKbibaeLSaoEV-S2zNWj-g918Dqb89lz_HvhqkjNM13PlVgNMBSdZu_h57t6ZWRXwhw)
-- [Design and implement an interoperable Internet of Things application based on an extended OGC sensorthings API Standard](https://pdfs.semanticscholar.org/11e0/9ea6c194f61b7af59b5070911a6d6e68d639.pdf)
+1. [Amazon IoT and the candidate OGC SensorThings API Standard](https://www.ogc.org/blog/2315)
+2. [Implementation and Evaluation of Four Interoperable Open Standards for the Internet of Things](https://www.mdpi.com/1424-8220/15/9/24343#/)
+3. [An Environmental Sensor Data Suite Using the OGC SensorThings API](https://link.springer.com/chapter/10.1007/978-3-030-39815-6_22)
+4. [Design and Development of an Integrated Internet of Audio and Video Sensors for COVID-19 Coughing and Sneezing Recognition](https://ieeexplore.ieee.org/abstract/document/9623141?casa_token=DdjcBl8uvxMAAAAA:fZdmWxdPp2NUSoBfu3sA2r-N6SkAkfA6phSMRunCR3Tm75OuipDHznkC87LGRqHwm_9e3EtgSw)
+5. [The Integration of OGC SensorThings API and OGC CityGML via Semantic Web Technology](https://books.google.ca/books?hl=en&lr=&id=H4gEEAAAQBAJ&oi=fnd&pg=PA55&ots=ai_Ledffts&sig=nTs7w4FHDrBIrCkeqiwF45n2c60&redir_esc=y#v=onepage&q&f=false)
+6. [An Automatic Embedded Device Registration Procedure Based on the OGC SensorThings API](https://scholar.google.com/scholar_url?url=https://www.mdpi.com/1424-8220/19/3/495/pdf&hl=en&oi=gsb-gga&ct=res&d=11656171690071367110&scisig=AAGBfm3mFAyEBx585JYi26bjBqji2hdlbw)
+7. [The Integration of OGC SensorThings API and OGC CityGML via Sematic Web Technology](https://link.springer.com/chapter/10.1007/978-3-030-60952-8_6)
+8. [A Comparative Study in the Standardization of IoT Devices Using Geospatial Web Standards](https://ieeexplore.ieee.org/abstract/document/9224992?casa_token=wET_iQDqU4YAAAAA:EyTm0T1jKbibaeLSaoEV-S2zNWj-g918Dqb89lz_HvhqkjNM13PlVgNMBSdZu_h57t6ZWRXwhw)
+9. [Design and implement an interoperable Internet of Things application based on an extended OGC sensorthings API Standard](https://pdfs.semanticscholar.org/11e0/9ea6c194f61b7af59b5070911a6d6e68d639.pdf)
+10. [OGC SensorThings API: Communicating "Where" in the Web of Things](https://iab.org/wp-content/IAB-uploads/2016/03/IAB_WhitePaper_OpenGeospatialConsortium.pdf)
+11. [Mapping the OGC SensorThings API onto the OpenIoT Middleware](https://www.researchgate.net/publication/284995256_Mapping_the_OGC_SensorThings_API_onto_the_OpenIoT_Middleware)
+12. [An Ontology Integrating the Open Standards of City Models and Internet of Things for Smart-city Applications](https://ieeexplore.ieee.org/abstract/document/9784912/)
