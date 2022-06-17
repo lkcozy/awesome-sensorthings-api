@@ -43,6 +43,7 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [sensor-things-server](https://github.com/PAR-Government/sensor-things-server): Implementation of OGC SensorThings server in .NET that is suitable for being embedded into Xamarin
 - 🐳 [sensorcamp-munich](https://github.com/lrswss/sensorcamp-munich): Docker stack to setup a LoRaWAN infrastructure including a FROST-Server on a Raspberry Pi
 - [Grafana OGC SensorThings Plugin](https://grafana.com/grafana/plugins/linksmart-sensorthings-datasource/): This plugin enables the visualization of sensor and location data from an OGC SensorThings server on Grafana.
+- [STAM (SensorThings API Map)](https://github.com/DataCoveEU/STAM): The JS library for showing the Things/Features of interest of a SensorThings server on a Leaflet/OpenLayers map.
 
 ## [Custom Extensions](https://github.com/opengeospatial/sensorthings/discussions/146)
 
@@ -56,6 +57,10 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [SelectDistinct](https://fraunhoferiosb.github.io/FROST-Server/extensions/SelectDistinct.html): Adds the ability to select all different existing values of (a set of) properties
 - [JsonBatchRequest](https://fraunhoferiosb.github.io/FROST-Server/extensions/JsonBatchRequest.html): Adds OData JSON batch requests, as an easier-to-use alternative to the Multipart batch requests.
 - [ResponseMetadata](https://fraunhoferiosb.github.io/FROST-Server/extensions/ResponseMetadata.html): Adds the ability to reduce or extend the returned metadata for responses
+
+## Best Practices
+
+- [OGC Best Practice for using SensorThings API with Citizen Science](https://portal.ogc.org/files/100891)
 
 ## Use Case
 
