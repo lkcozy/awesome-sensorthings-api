@@ -2,6 +2,21 @@
 
 A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 
+- [**Awesome OGC SensorThings API** ![Awesome](https://github.com/lkcozy/awesome-sensorthings-api)](#awesome-ogc-sensorthings-api-)
+  - [OGC SensorThings API](#ogc-sensorthings-api)
+  - [General Resources](#general-resources)
+  - [Standard Specification](#standard-specification)
+  - [Sandbox Services](#sandbox-services)
+  - [Tools](#tools)
+  - [Custom Extensions](#custom-extensions)
+  - [Best Practices](#best-practices)
+  - [Use Cases](#use-cases)
+  - [Tutorials](#tutorials)
+  - [Presentations](#presentations)
+  - [Videos](#videos)
+  - [Related Standards](#related-standards)
+  - [Publications](#publications)
+
 ## OGC SensorThings API
 
 > A standard providing an open and unified framework to interconnect IoT sensing devices, data, and applications over the Web.
@@ -62,7 +77,7 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 
 - [OGC Best Practice for using SensorThings API with Citizen Science](https://portal.ogc.org/files/100891)
 
-## Use Case
+## Use Cases
 
 - [Sensor In Rooms](https://github.com/opengeospatial/sensorthings/blob/master/use-cases/SensorsInRooms.md)
 - [Lead in Liver In Fishing River](https://github.com/opengeospatial/sensorthings/blob/master/use-cases/LeadInLiverInFishInRiver.md)
@@ -112,3 +127,4 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 25. [A web service protocol realizing interoperable internet of things tasking capability](https://www.mdpi.com/1424-8220/16/9/1395)
 26. [Towards Establishing Cross-Platform Interoperability for Sensors in Smart Cities](https://www.mdpi.com/1424-8220/19/3/562)
 27. [OGC SensorThings API: Communicating "Where" in the Web of Things](https://iab.org/wp-content/IAB-uploads/2016/03/IAB_WhitePaper_OpenGeospatialConsortium.pdf)
+28. [Viability Testing of Game Engine Usage for Visualization of 3d Geospatial Data with Ogc Standards](https://ui.adsabs.harvard.edu/abs/2022ISPAnX4W2..281W/abstract)
