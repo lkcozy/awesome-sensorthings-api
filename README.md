@@ -2,7 +2,7 @@
 
 A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 
-- [**Awesome OGC SensorThings API** ![Awesome](https://github.com/lkcozy/awesome-sensorthings-api)](#awesome-ogc-sensorthings-api-)
+- [**Awesome OGC SensorThings API** ](#awesome-ogc-sensorthings-api-)
   - [OGC SensorThings API](#ogc-sensorthings-api)
   - [General Resources](#general-resources)
   - [Standard Specification](#standard-specification)
@@ -28,6 +28,8 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [Online Documentation v1.0](https://developers.sensorup.com/docs/#introduction)
 - [GitHub](https://github.com/opengeospatial/sensorthings)
 - [Wiki Page](https://en.wikipedia.org/wiki/SensorThings_API)
+- [SensorUp SensorThings API Documentation](https://developers.sensorup.com/docs/#introduction)
+- [SensorThings API HowTo](https://fraunhoferiosb.github.io/FROST-Server/sensorthingsapi/1_Home.html)
 
 ## Standard Specification
 
@@ -87,6 +89,7 @@ A collection of awesome things regarding OGC SensorThings API(STA) ecosystem.
 - [SensorUp Mapping with SensorThings](https://developers.sensorup.com/tutorials/map/)
 - [SensorUp SensorThings Tutorials](https://developers.sensorup.com/tutorials/)
 - [SensorThingsAPI Locations on a map](https://github.com/tum-gis/FROST-on-a-map): Basic examples for bringing SensorThingsAPI Locations and HistoricalLocations to web maps as markers or trajectories.
+- [NMWDI SensorThings API](https://crceanalytics.com/2022/07/07/nmwdi-sensorthings-api/)
 
 ## Presentations
 
