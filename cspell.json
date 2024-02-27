@@ -16,7 +16,9 @@
     "sensorthings",
     "STAM",
     "stapy",
-    "Visualising"
+    "Visualising",
+    "Datastream",
+    "Datastreams"
   ],
   "ignoreWords": [],
   "import": []

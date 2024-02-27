@@ -6,12 +6,12 @@
   "author": "lkcozy <lkklcozy@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "markdown-link-check": "find . -name '*.md' -not -path './node_modules/*' -exec sh -c 'markdown-link-check --quiet --verbose {}' \\;",
+    "markdown-link-check": "find . -name '*.md' -not -path './node_modules/*' -exec sh -c 'markdown-link-check --progress --quiet --alive 200,202,403 --verbose {}' \\;",
     "spell-check": "cspell --unique --no-progress \"**/*.md\""
   },
   "devDependencies": {
-    "cspell": "^6.31.0",
-    "husky": "^8.0.0",
+    "cspell": "^8.4.0",
+    "husky": "^9.0.0",
     "markdown-link-check": "^3.11.0"
   }
 }
