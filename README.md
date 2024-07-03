@@ -198,3 +198,5 @@ v1.1/Things?
 26. [A web service protocol realizing interoperable internet of things tasking capability](https://www.mdpi.com/1424-8220/16/9/1395)
 27. [Towards Establishing Cross-Platform Interoperability for Sensors in Smart Cities](https://www.mdpi.com/1424-8220/19/3/562)
 28. [Viability Testing of Game Engine Usage for Visualization of 3d Geospatial Data with Ogc Standards](https://ui.adsabs.harvard.edu/abs/2022ISPAnX4W2..281W/abstract)
+29. [The template for a Semantic SensorThings API with the GloSIS use case](https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/29/2024/isprs-archives-XLVIII-4-W12-2024-29-2024.pdf)
+30. [Hypermedia-driven RESTful API for digital twins of the built environment](https://www.sciencedirect.com/science/article/pii/S0926580524002875)
