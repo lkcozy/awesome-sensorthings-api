@@ -112,6 +112,7 @@ v1.1/Things?
 - [SensorUp STA EXplorer](https://explorer.sensorup.com/?url=https://toronto-bike-snapshot.sensorup.com/v1.0):Generic visualization dashboard for SensorThings
 - [SensorUp STA Share](https://share.sensorup.com/): Create and share snippets of code to showcase SensorThings
 - [FROST-Server](https://github.com/FraunhoferIOSB/FROST-Server):The FRaunhofer Opensource SensorThings-Server is the first complete, open-source implementation of the OGC SensorThings API Part 1: Sensing
+- [FROST-Server Fine-Grained Security with Projects](https://github.com/hylkevds/FROST-Server.Plugin.Projects/): A fine-grained security definition for FROST-Server, based on Projects.
 - [FROST-GeoJSON-Importer](https://github.com/hylkevds/FROST-GeoJsonImporter): A tool for importing GeoJSON FeatureCollections as Locations & Things into a SensorThings API compatible service.
 - [Frost-Client](https://github.com/FraunhoferIOSB/FROST-Client): a Java-based client library for the SensorThingsAPI and aims to simplify development of SensorThings enabled client applications.
 - [SensorThings API Python Client](https://pypi.org/project/frost-sta-client/#/): a client library to facilitate interaction with a FROST SensorThingsAPI Server
@@ -121,6 +122,7 @@ v1.1/Things?
 - 🐳 [sensorcamp-munich](https://github.com/lrswss/sensorcamp-munich): Docker stack to setup a LoRaWAN infrastructure including a FROST-Server on a Raspberry Pi
 - [Grafana OGC SensorThings Plugin](https://grafana.com/grafana/plugins/linksmart-sensorthings-datasource/): This plugin enables the visualization of sensor and location data from an OGC SensorThings server on Grafana.
 - [STAM (SensorThings API Map)](https://github.com/DataCoveEU/STAM): The JS library for showing the Things/Features of interest of a SensorThings server on a Leaflet/OpenLayers map.
+- [sensorweb-server-sta](https://github.com/52North/sensorweb-server-sta/tree/sta-dao-cloudnative)This is an implementation of the `OGC SensorThings API Part I: Sensing`.
 
 ## [Custom Extensions](https://github.com/opengeospatial/sensorthings/discussions/146)
 

@@ -10,8 +10,8 @@
     "spell-check": "cspell --unique --no-progress \"**/*.md\""
   },
   "devDependencies": {
-    "cspell": "^8.4.0",
-    "husky": "^9.0.0",
-    "markdown-link-check": "^3.11.0"
+    "cspell": "^8.13.0",
+    "husky": "^9.1.0",
+    "markdown-link-check": "^3.12.0"
   }
 }
